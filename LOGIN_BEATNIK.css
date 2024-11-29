@@ -1,0 +1,131 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Video Background */
+.video-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    z-index: -3;
+}
+
+#bgVideo {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.7;
+}
+
+/* Overlay for the login form */
+.overlay {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.4);
+}
+
+/* Login Container */
+.login-container {
+    background: rgba(48, 0, 80, 0.885);
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(10px);
+    text-align: center;
+    color: #1d033c;
+    max-width: 400px;
+    width: 90%;
+}
+
+/* Heading */
+.login-container h2 {
+    font-size: 2rem;
+    color: #d1a0ff;
+}
+
+/* Subheading */
+.login-container p {
+    margin: 0.5rem 0 1rem;
+    color: #f1caff;
+}
+
+/* Input Group */
+.input-group {
+    position: relative;
+    margin: 1rem 0;
+}
+
+.input-group i {
+    position: absolute;
+    left: 1rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #f1caff;
+}
+
+.input-group input {
+    width: 100%;
+    padding: 0.8rem 1rem 0.8rem 3rem;
+    border: none;
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #ffffff;
+    font-size: 1rem;
+}
+
+.input-group input::placeholder {
+    color: #e3c3ff;
+}
+
+/* Login Button */
+.login-btn {
+    width: 100%;
+    padding: 0.8rem;
+    margin-top: 1rem;
+    background-color: #a15cff;
+    border: none;
+    border-radius: 8px;
+    color: #ffffff;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.login-btn:hover {
+    background-color: #843dd4;
+}
+
+/* Error Message */
+.error-message {
+    color: #ff7675;
+    font-size: 0.9rem;
+    display: none;
+}
+
+.error-message.hidden {
+    display: none;
+}
+
+/* Signup Link */
+.signup-link {
+    margin-top: 1.5rem;
+    color: #f1caff;
+}
+
+.signup-link a {
+    color: #a15cff;
+    text-decoration: none;
+}
+
+.signup-link a:hover {
+    text-decoration: underline;
+}

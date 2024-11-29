@@ -1,0 +1,1785 @@
+
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+.f-645546712-clv1sotwmf2k99veh5-icon {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    border-radius: 25px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 595px;
+    object-fit: contain;
+}
+.basilsearch-outline-icon {
+    width: 25px;
+    position: relative;
+    height: 25px;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: contain;
+}
+.search-for-musics {
+    position: relative;
+    font-weight: 300;
+    opacity: 0.6;
+}
+.search-for-musics-artists-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.basilsearch-outline-parent {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 3px;
+}
+.search-bar {
+    flex: 0.9523;
+    border-radius: 10px;
+    background-color: #1f1f1f;
+    height: 38px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 6px 8px;
+    box-sizing: border-box;
+    text-align: left;
+}
+.about-us {
+    flex: 1;
+    position: relative;
+    font-weight: 500;
+}
+.about-us-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.titles {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+}
+.button1 {
+    position: relative;
+    font-weight: 300;
+    text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+.button {
+    flex: 1;
+    border-radius: 4px;
+    border: 1px solid #ee10b0;
+    box-sizing: border-box;
+    height: 36px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 6px 16px;
+}
+.button2 {
+    flex: 1;
+    border-radius: 4px;
+    background-color: #ee10b0;
+    height: 36px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 6px 16px;
+    box-sizing: border-box;
+    color: #fff;
+}
+.button-parent {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 12px;
+    font-size: 14px;
+    color: #ee10b0;
+}
+.search-bar-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 12px;
+}
+.all-the {
+    color: #fff;
+}
+.all-the-best-songs {
+    margin: 0;
+}
+.in-one-place {
+    margin: 0;
+    color: #fff;
+}
+.all-the-best-container {
+    position: relative;
+    font-weight: 800;
+}
+.all-the-best-songs-in-one-plac-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    color: #ee10b0;
+}
+.on-our-website {
+    width: 332px;
+    position: relative;
+    font-weight: 300;
+    display: inline-block;
+    flex-shrink: 0;
+}
+.on-our-website-you-can-access-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    text-align: justify;
+    font-size: 12px;
+}
+.button5 {
+    position: relative;
+    font-weight: 500;
+    text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+.button4 {
+    border-radius: 4px;
+    background-color: #ee10b0;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 24px;
+    box-sizing: border-box;
+}
+.button6 {
+    border-radius: 4px;
+    border: 1px solid #0e9eef;
+    box-sizing: border-box;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 24px;
+    color: #0e9eef;
+}
+.button-group {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    text-align: center;
+    font-size: 16px;
+}
+.frame-parent {
+    width: 352px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 16px;
+    text-align: left;
+    font-size: 40px;
+}
+.hero-section1 {
+    position: absolute;
+    width: 95.37%;
+    top: 16px;
+    right: 2.31%;
+    left: 2.31%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 114px;
+}
+.hero-section {
+    position: absolute;
+    width: 75.07%;
+    top: 48px;
+    right: 4.44%;
+    left: 20.49%;
+    height: 595px;
+    text-align: center;
+    font-size: 12px;
+}
+.songs {
+    color: #ee10b0;
+}
+.weekly-top-songs-container {
+    position: relative;
+}
+.weekly-top-songs-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-content: center;
+    padding: 10px;
+}
+.frame-child {
+    flex: 1;
+    position: relative;
+    border-radius: 10px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 150px;
+    object-fit: cover;
+}
+.rectangle-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+.whatever-it-takes {
+    align-self: stretch;
+    position: relative;
+    font-weight: 500;
+}
+.imagne-dragons {
+    align-self: stretch;
+    position: relative;
+    font-size: 12px;
+    font-weight: 300;
+    opacity: 0.8;
+}
+.whatever-it-takes-parent {
+    width: 150px;
+    height: 48px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+}
+.frame-parent1 {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.frame-wrapper {
+    flex: 1;
+    border-radius: 10px;
+    background-color: #1f1f1f;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
+    padding: 4px 15px;
+}
+.frame-div {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 24px;
+}
+.icbaseline-plus-icon {
+    width: 24px;
+    position: relative;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.icbaseline-plus-wrapper {
+    flex: 1;
+    border-radius: 31px;
+    background-color: #1e1e1e;
+    height: 62px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-content: center;
+    padding: 18px 19px;
+    box-sizing: border-box;
+}
+.view-all {
+    position: relative;
+    font-weight: 500;
+}
+.frame-parent6 {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    gap: 4px;
+    max-width: 62px;
+}
+.frame-container {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-content: center;
+    padding: 0px 4px;
+    gap: 24px;
+    font-size: 16px;
+}
+.frame-group {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+}
+.weekly-top-songs {
+    position: absolute;
+    width: 73.75%;
+    top: 707px;
+    right: 4.44%;
+    left: 21.81%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.alan-walker {
+    align-self: stretch;
+    position: relative;
+    font-size: 12px;
+    font-weight: 300;
+    white-space: pre-wrap;
+    opacity: 0.8;
+}
+.new-release-songs {
+    position: absolute;
+    width: 73.75%;
+    top: 1059px;
+    right: 4.44%;
+    left: 21.81%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.trending-songs-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    font-size: 32px;
+}
+.view-all3 {
+    width: 58px;
+    position: relative;
+    font-weight: 500;
+    display: inline-block;
+    height: 23px;
+    flex-shrink: 0;
+}
+.icbaseline-plus-parent {
+    width: 92px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 4px 0px;
+    box-sizing: border-box;
+    gap: 4px;
+}
+.view-all-inner {
+    align-self: stretch;
+    border-radius: 5px;
+    background-color: #1e1e1e;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 4px 16px;
+}
+.view-all2 {
+    position: absolute;
+    top: 610px;
+    left: 486px;
+    width: 116px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.relase-date {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.album {
+    position: absolute;
+    top: 0px;
+    left: 325px;
+}
+.time1 {
+    position: absolute;
+    top: 0px;
+    left: 645px;
+}
+.detail {
+    position: absolute;
+    top: 46px;
+    left: 352px;
+    width: 690px;
+    height: 31px;
+    font-size: 20px;
+}
+.div1 {
+    position: absolute;
+    top: 11px;
+    left: 0px;
+    font-size: 24px;
+    font-weight: 600;
+    display: inline-block;
+    width: 28.1px;
+}
+.group-child {
+    position: absolute;
+    width: 93.06%;
+    top: 0px;
+    right: 0%;
+    left: 6.94%;
+    border-radius: 5px;
+    background-color: #1e1e1e;
+    height: 60px;
+}
+.nov-4-2023 {
+    position: absolute;
+    top: 18px;
+    left: 359px;
+    display: inline-block;
+    width: 87.9px;
+}
+.hard-to-imagine-container {
+    position: absolute;
+    top: 18px;
+    left: 513.49px;
+    display: inline-block;
+    width: 396.6px;
+    height: 25px;
+}
+.the-neighbourhood-the-neighb-icon {
+    position: absolute;
+    top: 0px;
+    left: 73.87px;
+    border-radius: 5px;
+    width: 58.2px;
+    height: 60px;
+    object-fit: cover;
+}
+.sorfcore {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 600;
+    display: inline-block;
+    width: 78px;
+}
+.the-neighberhood1 {
+    position: absolute;
+    top: 29px;
+    left: 0px;
+    font-size: 12px;
+    font-weight: 300;
+    display: inline-block;
+    width: 97px;
+}
+.sorfcore-parent {
+    position: absolute;
+    top: 8px;
+    left: 149px;
+    width: 97px;
+    height: 48px;
+    font-size: 20px;
+}
+.phheart-light-icon {
+    width: 24.2px;
+    position: relative;
+    height: 25px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.div2 {
+    width: 34px;
+    position: relative;
+    display: inline-block;
+    flex-shrink: 0;
+}
+.phheart-light-parent {
+    position: absolute;
+    top: 17px;
+    left: 953.71px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 14px;
+}
+.group {
+    position: absolute;
+    top: 85px;
+    left: 4px;
+    width: 1058px;
+    height: 60px;
+}
+.child {
+    position: absolute;
+    width: 93.02%;
+    top: 0px;
+    right: 0%;
+    left: 6.98%;
+    border-radius: 5px;
+    background-color: #1e1e1e;
+    height: 60px;
+}
+.oct-26-2023 {
+    position: absolute;
+    top: 18px;
+    left: 358px;
+    display: inline-block;
+    width: 90.8px;
+}
+.nightmares {
+    position: absolute;
+    top: 18px;
+    left: 645.93px;
+    display: inline-block;
+    width: 84.4px;
+    height: 25px;
+}
+.skyfall-beats {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 600;
+    display: inline-block;
+    width: 119px;
+}
+.nightmares1 {
+    position: absolute;
+    top: 29px;
+    left: 0px;
+    font-size: 12px;
+    font-weight: 300;
+    display: inline-block;
+    width: 64px;
+}
+.skyfall-beats-parent {
+    position: absolute;
+    top: 8px;
+    left: 149px;
+    width: 119px;
+    height: 48px;
+    font-size: 20px;
+}
+.div4 {
+    position: absolute;
+    top: 15px;
+    left: 0px;
+    font-size: 24px;
+    font-weight: 600;
+    display: inline-block;
+    width: 28.1px;
+}
+.div3 {
+    position: absolute;
+    width: 99.62%;
+    top: 160px;
+    right: 0%;
+    left: 0.38%;
+    height: 60px;
+}
+.dec-30-2023 {
+    position: absolute;
+    top: 18px;
+    left: 355px;
+    display: inline-block;
+    width: 96px;
+}
+.greedy {
+    position: absolute;
+    top: 18px;
+    left: 660.47px;
+    display: inline-block;
+    width: 58.2px;
+    height: 25px;
+}
+.greedy1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 600;
+    display: inline-block;
+    width: 66px;
+}
+.tate-mcrae {
+    position: absolute;
+    top: 29px;
+    left: 0px;
+    font-size: 12px;
+    font-weight: 300;
+    display: inline-block;
+    width: 59px;
+}
+.greedy-parent {
+    position: absolute;
+    top: 8px;
+    left: 149px;
+    width: 66px;
+    height: 48px;
+    font-size: 20px;
+}
+.div6 {
+    position: absolute;
+    width: 99.62%;
+    top: 235px;
+    right: 0%;
+    left: 0.38%;
+    height: 60px;
+}
+.lovin-on-me-container {
+    position: absolute;
+    top: 18px;
+    left: 638px;
+    display: inline-block;
+    width: 101px;
+    height: 25px;
+}
+.lovin-on-me1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 600;
+    display: inline-block;
+    width: 112px;
+}
+.jack-harlow {
+    position: absolute;
+    top: 29px;
+    left: 0px;
+    font-size: 12px;
+    font-weight: 300;
+    display: inline-block;
+    width: 66px;
+}
+.lovin-on-me-parent {
+    position: absolute;
+    top: 8px;
+    left: 149px;
+    width: 112px;
+    height: 48px;
+    font-size: 20px;
+}
+.div9 {
+    position: absolute;
+    width: 99.62%;
+    top: 310px;
+    right: 0%;
+    left: 0.38%;
+    height: 60px;
+}
+.dec-29-2023 {
+    position: absolute;
+    top: 18px;
+    left: 353px;
+    display: inline-block;
+    width: 101px;
+}
+.paint-the-town {
+    position: absolute;
+    top: 18px;
+    left: 624.05px;
+    display: inline-block;
+    width: 144.5px;
+    height: 25px;
+}
+.pain-the-town {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 600;
+    display: inline-block;
+    width: 159.5px;
+}
+.doja-cat {
+    position: absolute;
+    top: 29px;
+    left: 0px;
+    font-size: 12px;
+    font-weight: 300;
+    display: inline-block;
+    width: 47px;
+}
+.pain-the-town-red-parent {
+    position: absolute;
+    top: 8px;
+    left: 148.53px;
+    width: 159.5px;
+    height: 48px;
+    font-size: 20px;
+}
+.div12 {
+    position: absolute;
+    width: 99.62%;
+    top: 385px;
+    right: 0%;
+    left: 0.38%;
+    height: 60px;
+}
+.dance-the-nightfrom {
+    position: absolute;
+    top: 18px;
+    left: 558px;
+    display: inline-block;
+    width: 267px;
+    height: 25px;
+}
+.dancin-on-night {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 600;
+    display: inline-block;
+    width: 147px;
+}
+.dualipa {
+    position: absolute;
+    top: 29px;
+    left: 0px;
+    font-size: 12px;
+    font-weight: 300;
+    display: inline-block;
+    width: 45px;
+}
+.dancin-on-night-parent {
+    position: absolute;
+    top: 8px;
+    left: 149px;
+    width: 147px;
+    height: 48px;
+    font-size: 20px;
+}
+.div15 {
+    position: absolute;
+    width: 99.62%;
+    top: 460px;
+    right: 0%;
+    left: 0.38%;
+    height: 60px;
+}
+.dec-10-2023 {
+    position: absolute;
+    top: 17px;
+    left: 355px;
+    display: inline-block;
+    width: 96px;
+}
+.water {
+    position: absolute;
+    top: 18px;
+    left: 664.35px;
+    display: inline-block;
+    width: 47.5px;
+    height: 25px;
+}
+.water1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 600;
+    display: inline-block;
+    width: 57px;
+}
+.tyla {
+    position: absolute;
+    top: 29px;
+    left: 0px;
+    font-size: 12px;
+    font-weight: 300;
+    display: inline-block;
+    width: 24px;
+}
+.water-parent {
+    position: absolute;
+    top: 8px;
+    left: 149px;
+    width: 57px;
+    height: 48px;
+    font-size: 20px;
+}
+.div18 {
+    position: absolute;
+    width: 99.62%;
+    top: 535px;
+    right: 0%;
+    left: 0.38%;
+    height: 60px;
+}
+.tranding-songs {
+    position: absolute;
+    top: 1411px;
+    left: 314px;
+    width: 1062px;
+    height: 650px;
+    font-size: 16px;
+}
+.popular-artists-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px;
+}
+.icon {
+    align-self: stretch;
+    position: relative;
+    border-radius: 200px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 130px;
+    flex-shrink: 0;
+    object-fit: cover;
+}
+.container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 23px;
+}
+.the-weekend {
+    align-self: stretch;
+    position: relative;
+}
+.frame-parent17 {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 36px;
+}
+.icbaseline-plus-frame {
+    align-self: stretch;
+    border-radius: 31px;
+    background-color: #1e1e1e;
+    height: 62px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 18px 19px;
+    box-sizing: border-box;
+}
+.frame-parent18 {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 4px;
+    max-width: 62px;
+    text-align: left;
+}
+.frame-parent16 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 24px;
+    text-align: center;
+    font-size: 16px;
+}
+.popular-artists {
+    position: absolute;
+    width: calc(100% - 379px);
+    top: 2125px;
+    right: 65px;
+    left: 314px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 18px;
+}
+.frame-child7 {
+    align-self: stretch;
+    position: relative;
+    border-radius: 5px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 168.8px;
+    flex-shrink: 0;
+    object-fit: cover;
+}
+.rectangle-wrapper8 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.gossip {
+    flex: 1;
+    position: relative;
+    font-weight: 600;
+}
+.m-views {
+    position: relative;
+    font-weight: 300;
+}
+.mneskin-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 12px;
+}
+.frame-wrapper12 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.frame-parent20 {
+    align-self: stretch;
+    border-radius: 5px;
+    background-color: #1f1f1f;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 8px;
+    gap: 4px;
+}
+.frame-wrapper10 {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+.shape-of-you {
+    position: relative;
+    font-weight: 600;
+}
+.ed-sheeran {
+    flex: 1;
+    position: relative;
+    font-weight: 300;
+    display: inline-block;
+    height: 19px;
+}
+.adele2 {
+    width: 33px;
+    position: relative;
+    font-weight: 300;
+    display: inline-block;
+    height: 19px;
+    flex-shrink: 0;
+}
+.frame-parent26 {
+    width: 62px;
+    height: 91px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 4px;
+    max-width: 62px;
+}
+.view-all5 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: 16px;
+}
+.frame-parent19 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 46px;
+    font-size: 20px;
+}
+.music-video {
+    position: absolute;
+    width: 73.75%;
+    top: 2455px;
+    right: 4.44%;
+    left: 21.81%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.frame-child10 {
+    flex: 1;
+    position: relative;
+    border-radius: 8px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 150px;
+    object-fit: cover;
+}
+.frame-wrapper19 {
+    flex: 1;
+    border-radius: 8px;
+    background-color: #1f1f1f;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
+    padding: 8px;
+}
+.top-albums {
+    position: absolute;
+    width: 73.75%;
+    top: 2836px;
+    right: 4.44%;
+    left: 21.81%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.sad-playlist-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0px 0px 0px 4px;
+}
+.frame-parent38 {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 12px;
+}
+.frame-wrapper25 {
+    flex: 1;
+    border-radius: 8px;
+    background-color: #1f1f1f;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
+    padding: 0px 0px 8px;
+}
+.top-albums2 {
+    position: absolute;
+    width: 73.75%;
+    top: 3196px;
+    right: 4.44%;
+    left: 21.81%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.join-our-platform {
+    align-self: stretch;
+    position: relative;
+    line-height: 130%;
+    font-weight: 900;
+}
+.login-button {
+    color: #0e9eef;
+}
+.you-can-be-container {
+    align-self: stretch;
+    position: relative;
+    font-size: 20px;
+    text-align: justify;
+}
+.join-our-platform-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.sign-in-inner {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.sign-up {
+    width: 84px;
+    position: relative;
+    display: inline-block;
+}
+.line-div {
+    align-self: stretch;
+    position: relative;
+    border-top: 3px solid #ee10b0;
+    box-sizing: border-box;
+    height: 3px;
+}
+.sign-up-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 3px;
+}
+.login {
+    width: 68px;
+    position: relative;
+    font-size: 20px;
+    font-weight: 600;
+    color: #fab5e7;
+    text-align: center;
+    display: inline-block;
+    flex-shrink: 0;
+}
+.frame-parent46 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    text-align: justify;
+    font-size: 24px;
+    color: #ee10b0;
+}
+.enter-your-name {
+    width: 109px;
+    position: relative;
+    display: inline-block;
+    flex-shrink: 0;
+    opacity: 0.75;
+}
+.miuser-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 4px;
+}
+.frame-wrapper30 {
+    align-self: stretch;
+    border-radius: 4px;
+    border: 2px solid #d9d9d9;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 8px 4px 8px 8px;
+    text-align: justify;
+    font-size: 10px;
+}
+.name-parent {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+.enter-your-number {
+    width: 134px;
+    position: relative;
+    display: inline-block;
+    flex-shrink: 0;
+    opacity: 0.75;
+}
+.enter-your-e-mail {
+    flex: 1;
+    position: relative;
+    opacity: 0.75;
+}
+.octiconmail-24-parent {
+    width: 113px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 4px;
+}
+.frame-wrapper32 {
+    align-self: stretch;
+    border-radius: 4px;
+    border: 2px solid #d9d9d9;
+    box-sizing: border-box;
+    height: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 8px 4px 8px 8px;
+    font-size: 10px;
+}
+.e-mail-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+.frame-parent45 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.button8 {
+    align-self: stretch;
+    border-radius: 4px;
+    background-color: #ee10b0;
+    height: 44px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 36px;
+    box-sizing: border-box;
+    font-size: 18px;
+}
+.or {
+    width: 100%;
+    position: absolute;
+    margin: 0 !important;
+    top: 0px;
+    left: 0%;
+    font-weight: 500;
+    display: inline-block;
+    z-index: 0;
+}
+.frame-child20 {
+    flex: 1;
+    position: relative;
+    border-top: 1px solid #fff;
+    box-sizing: border-box;
+    height: 1px;
+    z-index: 1;
+}
+.frame-child21 {
+    flex: 1;
+    position: relative;
+    border-top: 1px solid #fff;
+    box-sizing: border-box;
+    height: 1px;
+    z-index: 2;
+}
+.or-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 0px;
+    position: relative;
+    gap: 29px;
+    text-align: center;
+}
+.devicongoogle-parent {
+    align-self: stretch;
+    height: 25px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+}
+.frame-wrapper33 {
+    align-self: stretch;
+    border-radius: 4px;
+    border: 2px solid #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 7px 155px;
+    text-align: justify;
+}
+.button-container {
+    align-self: stretch;
+    height: 121px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    text-align: right;
+}
+.frame-parent44 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px;
+}
+.sign-in-child {
+    flex: 0.8951;
+    border-radius: 12px;
+    background-color: #53063e;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 16px 25px;
+    font-size: 16px;
+}
+.sign-in {
+    position: absolute;
+    width: 74.17%;
+    top: 3529px;
+    right: 4.51%;
+    left: 21.32%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 115px;
+    font-size: 40px;
+}
+.background-icon {
+    position: absolute;
+    width: 100%;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 456px;
+}
+.about {
+    flex: 1;
+    position: relative;
+    letter-spacing: 0.01em;
+    font-weight: 900;
+}
+.melodies-is-a-container {
+    flex: 1;
+    position: relative;
+    display: inline-block;
+    height: 150px;
+    filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.35));
+    opacity: 0.9;
+}
+.melodies-is-a-website-that-has-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+    font-size: 16px;
+}
+.frame-parent48 {
+    position: absolute;
+    width: 24.24%;
+    right: 55.87%;
+    bottom: 73px;
+    left: 19.9%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.footer-child {
+    position: absolute;
+    top: 152.99px;
+    left: 814.5px;
+    width: 143px;
+    height: 291px;
+}
+.melodies {
+    flex: 1;
+    position: relative;
+}
+.melodies-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+.frame-child22 {
+    align-self: stretch;
+    position: relative;
+    border-top: 3px solid #fff;
+    box-sizing: border-box;
+    height: 3px;
+}
+.frame-parent50 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+.frame-parent51 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+}
+.div22 {
+    width: 143px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.wrapper {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.div23 {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.frame-parent55 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 16px;
+}
+.frame {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: right;
+}
+.frame-parent49 {
+    position: absolute;
+    width: 32.85%;
+    top: 152.99px;
+    right: 20.59%;
+    left: 46.56%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 22px;
+    text-align: center;
+    font-size: 24px;
+}
+.melodies1 {
+    position: relative;
+    font-weight: 800;
+    background: linear-gradient(90.07deg, #ee10b0, rgba(14, 158, 239, 0.92));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.vector-icon {
+    width: 24px;
+    position: relative;
+    height: 24px;
+}
+.streamlinecomputer-logo-faceb {
+    align-self: stretch;
+    flex: 1;
+    background-color: #181818;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 2px;
+}
+.lucideinstagram {
+    align-self: stretch;
+    flex: 0.9291;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 4px;
+}
+.vector-icon1 {
+    width: 24px;
+    position: relative;
+    height: 20.5px;
+}
+.streamlinecomputer-logo-twitt {
+    align-self: stretch;
+    flex: 1;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 5px 2px;
+}
+.vector-icon2 {
+    width: 24px;
+    position: relative;
+    height: 31.8px;
+}
+.fluentcall-28-regular {
+    align-self: stretch;
+    flex: 0.7872;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 3px 8px;
+}
+.streamlinecomputer-logo-faceb-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.frame-parent56 {
+    position: absolute;
+    top: 198px;
+    left: 1180px;
+    width: 241.4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 25px;
+    font-size: 40px;
+}
+.footer {
+    position: absolute;
+    width: 100%;
+    right: -2.5px;
+    bottom: 0px;
+    left: 2.5px;
+    filter: drop-shadow(0px -17px 22.7px rgba(0, 0, 0, 0.25));
+    height: 456px;
+    font-size: 26px;
+}
+.melodies2 {
+    flex: 1;
+    position: relative;
+    background: linear-gradient(90.07deg, #ee10b0, rgba(14, 158, 239, 0.92));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.melodies-frame {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 32px;
+}
+.menu-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 12px;
+    color: #ee10b0;
+}
+.home1 {
+    flex: 1;
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    height: 28px;
+}
+.group-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.frame-wrapper34 {
+    align-self: stretch;
+    border-radius: 9px;
+    background-color: #ee10b0;
+    height: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 2px 8px;
+    box-sizing: border-box;
+}
+.sticky-part-inner {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 20px;
+}
+.material-symbols-lightexplore-icon {
+    width: 16px;
+    position: relative;
+    height: 16px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.discover {
+    flex: 1;
+    position: relative;
+    font-weight: 500;
+    display: inline-block;
+    height: 22px;
+}
+.material-symbols-lightexplore-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+    cursor: pointer;
+}
+.recently-added {
+    flex: 1;
+    position: relative;
+    font-weight: 500;
+    display: inline-block;
+    height: 23px;
+}
+.subwayadd-playlist-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+    color: #0e9eef;
+}
+.setting {
+    flex: 1;
+    position: relative;
+    font-weight: 500;
+    display: inline-block;
+    height: 24px;
+}
+.line-mdlog-out-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+    color: #ee10b0;
+}
+.sticky-part {
+    position: absolute;
+    width: 18.75%;
+    top: 0px;
+    right: 81.25%;
+    left: 0%;
+    box-shadow: 8px 0px 24.2px rgba(238, 16, 176, 0.15);
+    background-color: #181818;
+    border-right: 2px solid #ee10b0;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 48px 32px 3569px 64px;
+    gap: 24px;
+    font-size: 16px;
+}
+.home {
+    width: 100%;
+    position: relative;
+    background-color: #181818;
+    height: 4373px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 32px;
+    color: #fff;
+    font-family: Vazirmatn;
+}
+

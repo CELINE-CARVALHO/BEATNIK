@@ -1,0 +1,136 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Video Background */
+.video-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    z-index: -3;
+}
+
+#bgVideo {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.7;
+}
+
+/* Overlay for the signup form */
+.overlay {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.4);
+}
+
+/* Sign Up Container */
+.signup-container {
+    background: rgba(48, 0, 80, 0.85);
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(10px);
+    text-align: center;
+    color: #1d033c;
+    max-width: 400px;
+    width: 90%;
+}
+
+/* Heading */
+.signup-container h2 {
+    font-size: 2rem;
+    color: #d1a0ff;
+}
+
+/* Subheading */
+.signup-container p {
+    margin: 0.5rem 0 1rem;
+    color: #f1caff;
+}
+
+/* Input Group */
+.input-group {
+    position: relative;
+    margin: 1rem 0;
+}
+
+.input-group i {
+    position: absolute;
+    left: 1rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #f1caff;
+}
+
+.input-group input {
+    width: 100%;
+    padding: 0.8rem 1rem 0.8rem 3rem;
+    border: none;
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #ffffff;
+    font-size: 1rem;
+}
+
+.input-group input::placeholder {
+    color: #e3c3ff;
+}
+
+/* Sign Up Button */
+.signup-btn {
+    width: 100%;
+    padding: 0.8rem;
+    margin-top: 1rem;
+    background-color: #a15cff;
+    border: none;
+    border-radius: 8px;
+    color: #ffffff;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.signup-btn:hover {
+    background-color: #843dd4;
+}
+
+/* Error and Success Messages */
+.error-message, .success-message {
+    font-size: 0.9rem;
+    margin-top: 1rem;
+}
+
+.error-message {
+    color: #ff7675;
+    display: none;
+}
+
+.success-message {
+    color: #a1ffb0;
+    display: none;
+}
+
+/* Login Link */
+.login-link {
+    margin-top: 1.5rem;
+    color: #f1caff;
+}
+
+.login-link a {
+    color: #a15cff;
+    text-decoration: none;
+}
+
+.login-link a:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,1468 @@
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+
+.background-child {
+    position: absolute;
+    height: calc(100% - 2012px);
+    width: 100%;
+    top: 0px;
+    right: 0px;
+    bottom: 2012px;
+    left: 0px;
+    box-shadow: 3px 12px 4px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    background: linear-gradient(90.22deg, #1171e2, rgba(83, 173, 214, 0.02) 97.7%, rgba(139, 203, 231, 0));
+}
+.background-item {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    border-radius: 10px;
+    background: linear-gradient(90.22deg, #1171e2, rgba(83, 173, 214, 0.02) 97.7%, rgba(139, 203, 231, 0));
+    height: 2461px;
+    opacity: 0.6;
+}
+.background {
+    position: absolute;
+    height: calc(100% - 52px);
+    width: calc(100% - 364px);
+    top: 26px;
+    right: 36px;
+    bottom: 26px;
+    left: 328px;
+}
+.background-icon {
+    position: absolute;
+    width: 100%;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 456px;
+}
+.about {
+    flex: 1;
+    position: relative;
+    letter-spacing: 0.01em;
+    font-weight: 900;
+}
+.about-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+.years {
+    color: #ee10b0;
+}
+.premium-passs {
+    color: #0e9eef;
+}
+.melodies-is-a-container {
+    flex: 1;
+    position: relative;
+    display: inline-block;
+    height: 150px;
+    filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.35));
+    opacity: 0.9;
+}
+.melodies-is-a-website-that-has-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+    font-size: 16px;
+}
+.frame-parent {
+    position: absolute;
+    width: 24.24%;
+    right: 55.87%;
+    bottom: 73px;
+    left: 19.9%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.footer-child {
+    position: absolute;
+    top: 152.99px;
+    left: 814.5px;
+    width: 143px;
+    height: 291px;
+}
+.melodies {
+    flex: 1;
+    position: relative;
+}
+.melodies-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+.frame-child {
+    align-self: stretch;
+    position: relative;
+    border-top: 3px solid #fff;
+    box-sizing: border-box;
+    height: 3px;
+}
+.frame-container {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+.frame-div {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+}
+.div {
+    width: 143px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.wrapper {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.div1 {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.contact {
+    position: relative;
+}
+.frame-parent4 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 16px;
+}
+.container {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: right;
+}
+.frame-group {
+    position: absolute;
+    width: 32.85%;
+    top: 152.99px;
+    right: 20.59%;
+    left: 46.56%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 22px;
+    text-align: center;
+    font-size: 24px;
+}
+.melodies1 {
+    position: relative;
+    font-weight: 800;
+    background: linear-gradient(90.07deg, #ee10b0, rgba(14, 158, 239, 0.92));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.vector-icon {
+    width: 24px;
+    position: relative;
+    height: 24px;
+}
+.streamlinecomputer-logo-faceb {
+    align-self: stretch;
+    flex: 1;
+    background-color: #181818;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 2px;
+}
+.lucideinstagram {
+    align-self: stretch;
+    flex: 0.9291;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 4px;
+}
+.vector-icon1 {
+    width: 24px;
+    position: relative;
+    height: 20.5px;
+}
+.streamlinecomputer-logo-twitt {
+    align-self: stretch;
+    flex: 1;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 5px 2px;
+}
+.vector-icon2 {
+    width: 24px;
+    position: relative;
+    height: 31.8px;
+}
+.fluentcall-28-regular {
+    align-self: stretch;
+    flex: 0.7872;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 3px 8px;
+}
+.streamlinecomputer-logo-faceb-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.frame-parent5 {
+    position: absolute;
+    top: 198px;
+    left: 1180px;
+    width: 241.4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 25px;
+    font-size: 40px;
+}
+.footer {
+    position: absolute;
+    width: 100%;
+    right: -2.5px;
+    bottom: 0px;
+    left: 2.5px;
+    filter: drop-shadow(0px -17px 22.7px rgba(0, 0, 0, 0.25));
+    height: 456px;
+    font-size: 26px;
+}
+.w-v8liutrl57g-1-icon {
+    width: 268px;
+    position: relative;
+    border-radius: 10px;
+    height: 268px;
+    object-fit: cover;
+}
+.trending-songs-mix-container {
+    position: relative;
+    font-size: 40px;
+    font-weight: 800;
+}
+.tate-mcree-nightmares {
+    width: 388px;
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    height: 62px;
+    flex-shrink: 0;
+}
+.div3 {
+    width: 13px;
+    position: relative;
+    font-size: 40px;
+    font-weight: 800;
+    color: #ee10b0;
+    display: inline-block;
+    height: 72px;
+    flex-shrink: 0;
+}
+.h-36m {
+    position: relative;
+    font-weight: 600;
+}
+.songs-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+}
+.trending-songs-mix-parent {
+    width: 388px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 44px;
+}
+.w-v8liutrl57g-1-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 56px;
+}
+.album-detail {
+    position: absolute;
+    top: 140px;
+    left: 371px;
+    width: 712px;
+    height: 285px;
+    font-size: 20px;
+}
+.material-symbolsarrow-back-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 50px;
+    height: 50px;
+    overflow: hidden;
+}
+.titles {
+    width: 267px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+}
+.iconamoonprofile-circle-fill {
+    width: 40px;
+    position: relative;
+    height: 40px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.titles-parent {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 37px;
+}
+.top-inner {
+    position: absolute;
+    top: 14px;
+    right: 0px;
+    width: 344px;
+    height: 40px;
+}
+.top {
+    position: absolute;
+    top: 56px;
+    left: 338px;
+    width: 1035px;
+    height: 54px;
+}
+.octiconplay-16 {
+    width: 60px;
+    position: relative;
+    height: 60px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.play-all-parent {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 16px;
+}
+.play-all {
+    position: absolute;
+    top: 360px;
+    right: 74px;
+    width: 157px;
+    height: 60px;
+    color: #ee10b0;
+}
+.relase-date {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.album {
+    position: absolute;
+    top: 0px;
+    left: 366px;
+}
+.time {
+    position: absolute;
+    top: 0px;
+    left: 686px;
+}
+.detail {
+    position: absolute;
+    top: 0px;
+    left: 314px;
+    width: 731px;
+    height: 31px;
+    font-size: 20px;
+}
+.child {
+    position: absolute;
+    width: calc(100% - 72px);
+    top: 0px;
+    right: 0px;
+    left: 72px;
+    border-radius: 5px;
+    background-color: #1e1e1e;
+    height: 60px;
+}
+.hard-to-imagine {
+    margin: 0;
+    white-space: pre-wrap;
+}
+.hard-to-imagine-container {
+    position: absolute;
+    top: 18px;
+    left: 530px;
+    display: inline-block;
+    width: 345px;
+    height: 25px;
+}
+.arcticonsvk-music {
+    width: 35px;
+    position: relative;
+    height: 35px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.the-neighbourhood-the-neighb-icon {
+    width: 60px;
+    position: relative;
+    border-radius: 5px;
+    height: 60px;
+    object-fit: cover;
+}
+.the-neighberhood {
+    position: relative;
+    font-size: 12px;
+    font-weight: 300;
+}
+.sorfcore-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.the-neighbourhood-the-neighb-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 23px;
+}
+.arcticonsvk-music-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 14px;
+}
+.nov-4-2023 {
+    position: relative;
+    font-size: 16px;
+}
+.frame-parent6 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 96px;
+    font-size: 20px;
+}
+.phheart-light-icon {
+    width: 25px;
+    position: relative;
+    height: 25px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.icon-parkmore {
+    width: 24px;
+    position: relative;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.phheart-light-parent {
+    position: absolute;
+    top: 17px;
+    right: 9px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 14px;
+}
+.div4 {
+    position: absolute;
+    width: 100%;
+    top: 37px;
+    right: 0px;
+    left: 0px;
+    height: 60px;
+}
+.item {
+    position: absolute;
+    width: calc(100% - 66px);
+    top: 0px;
+    right: 0px;
+    left: 66px;
+    border-radius: 5px;
+    background-color: #1e1e1e;
+    height: 60px;
+}
+.nightmares {
+    position: absolute;
+    top: 18px;
+    left: 659px;
+    display: inline-block;
+    width: 87px;
+    height: 25px;
+}
+.skyfall-beats-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+.the-neighbourhood-the-neighb-group {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 23px;
+    font-size: 20px;
+}
+.parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 28px;
+}
+.frame-parent7 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 76px;
+    font-size: 24px;
+}
+.div6 {
+    position: absolute;
+    width: calc(100% - 6px);
+    top: 112px;
+    right: 0px;
+    left: 6px;
+    height: 60px;
+}
+.inner {
+    position: absolute;
+    width: calc(100% - 65px);
+    top: 0px;
+    right: 0px;
+    left: 65px;
+    border-radius: 5px;
+    background-color: #1e1e1e;
+    height: 60px;
+}
+.greedy {
+    position: absolute;
+    top: 18px;
+    left: 673px;
+    display: inline-block;
+    width: 60px;
+    height: 25px;
+}
+.greedy-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.frame-wrapper {
+    width: 64px;
+    position: relative;
+    height: 50px;
+}
+.frame-parent8 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 129px;
+    font-size: 24px;
+}
+.div9 {
+    position: absolute;
+    width: calc(100% - 7px);
+    top: 187px;
+    right: 0px;
+    left: 7px;
+    height: 60px;
+}
+.rectangle-div {
+    position: absolute;
+    width: calc(100% - 49px);
+    top: 0px;
+    right: 0px;
+    left: 49px;
+    border-radius: 5px;
+    background-color: #1e1e1e;
+    height: 60px;
+}
+.lovin-on-me {
+    margin: 0;
+}
+.lovin-on-me-container {
+    position: absolute;
+    top: 18px;
+    left: 634px;
+    display: inline-block;
+    width: 91px;
+    height: 25px;
+}
+.child1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 195px;
+    height: 60px;
+}
+.div13 {
+    position: absolute;
+    width: calc(100% - 16px);
+    top: 0px;
+    right: 0px;
+    left: 16px;
+    height: 60px;
+}
+.the-neighbourhood-the-neighb-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+.lovin-on-me-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+.frame-parent9 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 81px;
+    font-size: 24px;
+}
+.div12 {
+    position: absolute;
+    width: calc(100% - 7px);
+    top: 262px;
+    right: 0px;
+    left: 7px;
+    height: 60px;
+}
+.child2 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    border-radius: 5px;
+    background-color: #1e1e1e;
+    height: 60px;
+}
+.paint-the-town {
+    position: absolute;
+    top: 18px;
+    left: 556px;
+    display: inline-block;
+    width: 149px;
+    height: 25px;
+}
+.div17 {
+    position: absolute;
+    width: calc(100% - 63px);
+    top: 0px;
+    right: 0px;
+    left: 63px;
+    height: 60px;
+}
+.parent2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 26px;
+}
+.frame-parent11 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 37px;
+}
+.inner1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 24px;
+}
+.div16 {
+    position: absolute;
+    width: calc(100% - 9px);
+    top: 337px;
+    right: 0px;
+    left: 9px;
+    height: 60px;
+}
+.dance-the-nightfrom {
+    position: absolute;
+    top: 18px;
+    left: 502px;
+    display: inline-block;
+    width: 270px;
+    height: 25px;
+}
+.frame-parent12 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 47px;
+    font-size: 24px;
+}
+.div20 {
+    position: absolute;
+    width: calc(100% - 9px);
+    top: 412px;
+    right: 0px;
+    left: 9px;
+    height: 60px;
+}
+.water {
+    position: absolute;
+    top: 18px;
+    left: 612px;
+    display: inline-block;
+    width: 49px;
+    height: 25px;
+}
+.frame-parent13 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 140px;
+    font-size: 24px;
+}
+.div24 {
+    position: absolute;
+    width: calc(100% - 9px);
+    top: 487px;
+    right: 0px;
+    left: 9px;
+    height: 60px;
+}
+.push-your-limits {
+    position: absolute;
+    top: 18px;
+    left: 575px;
+    display: inline-block;
+    width: 123px;
+    height: 25px;
+}
+.div29 {
+    position: absolute;
+    width: calc(100% - 63px);
+    top: 5px;
+    right: 0px;
+    left: 63px;
+    height: 60px;
+}
+.frame-wrapper1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px;
+}
+.the-neighbourhood-the-neighb-parent4 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 13px;
+    font-size: 20px;
+}
+.frame-parent14 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 37px;
+    font-size: 24px;
+}
+.div28 {
+    position: absolute;
+    width: calc(100% - 9px);
+    top: 557px;
+    right: 0px;
+    left: 9px;
+    height: 70px;
+}
+.houdini {
+    position: absolute;
+    top: 18px;
+    left: 612px;
+    display: inline-block;
+    width: 61px;
+    height: 25px;
+}
+.frame-parent15 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 123px;
+    font-size: 24px;
+}
+.div32 {
+    position: absolute;
+    width: calc(100% - 9px);
+    top: 637px;
+    right: 0px;
+    left: 9px;
+    height: 60px;
+}
+.la-vida-es {
+    position: absolute;
+    top: 18px;
+    left: 584px;
+    display: inline-block;
+    width: 106px;
+    height: 25px;
+}
+.div37 {
+    position: absolute;
+    width: calc(100% - 70px);
+    top: 0px;
+    right: 0px;
+    left: 70px;
+    height: 60px;
+}
+.parent7 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 19px;
+}
+.frame-parent16 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 125px;
+    font-size: 24px;
+}
+.div36 {
+    position: absolute;
+    width: calc(100% - 2px);
+    top: 712px;
+    right: 0px;
+    left: 2px;
+    height: 60px;
+}
+.am {
+    position: absolute;
+    top: 18px;
+    left: 612px;
+    display: inline-block;
+    width: 28px;
+    height: 25px;
+}
+.frame-parent17 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 36px;
+    font-size: 24px;
+}
+.div40 {
+    position: absolute;
+    width: calc(100% - 2px);
+    top: 787px;
+    right: 0px;
+    left: 2px;
+    height: 60px;
+}
+.paradise {
+    position: absolute;
+    top: 17px;
+    left: 599px;
+    display: inline-block;
+    width: 68px;
+    height: 25px;
+}
+.frame-parent18 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 114px;
+    font-size: 24px;
+}
+.div44 {
+    position: absolute;
+    width: calc(100% - 2px);
+    top: 862px;
+    right: 0px;
+    left: 2px;
+    height: 60px;
+}
+.as-it-was {
+    position: absolute;
+    top: 18px;
+    left: 597px;
+    display: inline-block;
+    width: 72px;
+    height: 25px;
+}
+.div49 {
+    position: absolute;
+    width: calc(100% - 69px);
+    top: 0px;
+    right: 0px;
+    left: 69px;
+    height: 60px;
+}
+.parent10 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 18px;
+}
+.frame-parent19 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 108px;
+    font-size: 24px;
+}
+.div48 {
+    position: absolute;
+    width: calc(100% - 3px);
+    top: 937px;
+    right: 0px;
+    left: 3px;
+    height: 60px;
+}
+.another-love {
+    position: absolute;
+    top: 18px;
+    left: 590px;
+    display: inline-block;
+    width: 100px;
+    height: 25px;
+}
+.another-love1 {
+    width: 120px;
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+}
+.frame-parent20 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 73px;
+    font-size: 24px;
+}
+.div52 {
+    position: absolute;
+    width: calc(100% - 3px);
+    top: 1012px;
+    right: 0px;
+    left: 3px;
+    height: 60px;
+}
+.daylight {
+    position: absolute;
+    top: 18px;
+    left: 606px;
+    display: inline-block;
+    width: 63px;
+    height: 25px;
+}
+.frame-parent21 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 119px;
+    font-size: 24px;
+}
+.div56 {
+    position: absolute;
+    width: calc(100% - 3px);
+    top: 1087px;
+    right: 0px;
+    left: 3px;
+    height: 60px;
+}
+.chosen {
+    position: absolute;
+    top: 18px;
+    left: 606px;
+    display: inline-block;
+    width: 57px;
+    height: 25px;
+}
+.mneskin {
+    width: 52px;
+    position: relative;
+    font-size: 12px;
+    font-weight: 300;
+    display: inline-block;
+    height: 16px;
+    flex-shrink: 0;
+}
+.frame-parent22 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 130px;
+    font-size: 24px;
+}
+.div60 {
+    position: absolute;
+    width: calc(100% - 3px);
+    top: 1162px;
+    right: 0px;
+    left: 3px;
+    height: 60px;
+}
+.what-was-i {
+    position: absolute;
+    top: 18px;
+    left: 556px;
+    display: inline-block;
+    width: 157px;
+    height: 25px;
+}
+.frame-parent23 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 9px;
+    font-size: 24px;
+}
+.div64 {
+    position: absolute;
+    width: calc(100% - 2px);
+    top: 1237px;
+    right: 0px;
+    left: 2px;
+    height: 60px;
+}
+.wiped-out {
+    position: absolute;
+    top: 18px;
+    left: 598px;
+    display: inline-block;
+    width: 80px;
+    height: 25px;
+}
+.daddy-issues {
+    width: 120px;
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    height: 25px;
+    flex-shrink: 0;
+}
+.the-neighbourhood {
+    width: 106px;
+    position: relative;
+    font-size: 12px;
+    font-weight: 300;
+    display: inline-block;
+    height: 16px;
+    flex-shrink: 0;
+}
+.daddy-issues-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+}
+.div68 {
+    position: absolute;
+    width: calc(100% - 2px);
+    top: 1312px;
+    right: 0px;
+    left: 2px;
+    height: 60px;
+}
+.adele-21 {
+    position: absolute;
+    top: 18px;
+    left: 605px;
+    display: inline-block;
+    width: 66px;
+    height: 25px;
+}
+.phheart-light-parent16 {
+    position: absolute;
+    top: 17px;
+    right: 13px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 11px;
+}
+.rolling-in-the {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 600;
+}
+.adele {
+    position: absolute;
+    top: 29px;
+    left: 0px;
+    font-size: 12px;
+    font-weight: 300;
+}
+.rolling-in-the-deep-parent {
+    width: 175px;
+    position: relative;
+    height: 48px;
+}
+.frame-parent25 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 23px;
+    font-size: 24px;
+}
+.div72 {
+    position: absolute;
+    width: calc(100% - 2px);
+    top: 1387px;
+    right: 0px;
+    left: 2px;
+    height: 60px;
+}
+.toca-donka {
+    position: absolute;
+    width: calc(100% - 905px);
+    top: 18px;
+    left: 594px;
+    display: inline-block;
+    height: 25px;
+}
+.frame-parent26 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 115px;
+    font-size: 24px;
+}
+.div76 {
+    position: absolute;
+    width: calc(100% - 2px);
+    top: 1462px;
+    right: 0px;
+    left: 2px;
+    height: 60px;
+}
+.songs2 {
+    position: absolute;
+    top: 493px;
+    left: 328px;
+    width: 1064px;
+    height: 1522px;
+    font-size: 16px;
+}
+.melodies2 {
+    flex: 1;
+    position: relative;
+    background: linear-gradient(90.07deg, #ee10b0, rgba(14, 158, 239, 0.92));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.melodies-frame {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 32px;
+}
+.menu {
+    position: relative;
+    font-weight: 300;
+    opacity: 0.6;
+}
+.menu-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 12px;
+    color: #ee10b0;
+}
+.group-icon1 {
+    width: 16px;
+    position: relative;
+    height: 16px;
+}
+.home {
+    flex: 1;
+    position: relative;
+    font-weight: 500;
+    display: inline-block;
+    height: 23px;
+}
+.group-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+    cursor: pointer;
+}
+.material-symbols-lightexplore-icon {
+    width: 16px;
+    position: relative;
+    height: 16px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.albums2 {
+    flex: 1;
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    height: 28px;
+}
+.material-symbols-lightalbum-o-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 4px;
+}
+.frame-wrapper5 {
+    align-self: stretch;
+    border-radius: 9px;
+    background-color: #ee10b0;
+    height: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 2px 8px;
+    box-sizing: border-box;
+}
+.frame-wrapper4 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 20px;
+}
+.fluent-mdl2recent-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.subwayadd-playlist-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+    color: #0e9eef;
+}
+.setting {
+    flex: 1;
+    position: relative;
+    font-weight: 500;
+    display: inline-block;
+    height: 24px;
+}
+.line-mdlog-out-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+    color: #ee10b0;
+}
+.frame-parent27 {
+    position: absolute;
+    width: 18.75%;
+    top: 0px;
+    right: 81.25%;
+    left: 0%;
+    box-shadow: 8px 0px 24.2px rgba(238, 16, 176, 0.15);
+    background-color: #181818;
+    border-right: 2px solid #ee10b0;
+    box-sizing: border-box;
+    height: 2513px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 48px 32px 0px 64px;
+    gap: 24px;
+    font-size: 16px;
+}
+.albums {
+    width: 100%;
+    position: relative;
+    background-color: #181818;
+    height: 2513px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 24px;
+    color: #fff;
+    font-family: Vazirmatn;
+}
+

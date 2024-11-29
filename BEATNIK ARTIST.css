@@ -1,0 +1,1103 @@
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+
+.background-child {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    border-radius: 10px;
+    background: linear-gradient(90.22deg, #0c0b0b, rgba(0, 0, 0, 0.02));
+    height: 2646px;
+    opacity: 0.9;
+}
+.background-item {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    border-radius: 10px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 422px;
+    object-fit: cover;
+}
+.background {
+    position: absolute;
+    width: calc(100% - 364px);
+    top: 37px;
+    right: 52px;
+    left: 312px;
+    height: 2646px;
+}
+.background-icon {
+    position: absolute;
+    width: 100%;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 456px;
+}
+.about {
+    flex: 1;
+    position: relative;
+    letter-spacing: 0.01em;
+    font-weight: 900;
+}
+.about-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+.years {
+    color: #a410ee;
+}
+.premium-passs {
+    color: #ef590e;
+}
+.melodies-is-a-container {
+    flex: 1;
+    position: relative;
+    display: inline-block;
+    height: 150px;
+    filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.35));
+    opacity: 0.9;
+}
+.melodies-is-a-website-that-has-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+    font-size: 16px;
+}
+.frame-parent {
+    position: absolute;
+    width: 24.24%;
+    right: 55.87%;
+    bottom: 73px;
+    left: 19.9%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.footer-child {
+    position: absolute;
+    bottom: 12.01px;
+    left: 814.5px;
+    width: 143px;
+    height: 291px;
+}
+.melodies {
+    flex: 1;
+    position: relative;
+}
+.melodies-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+.frame-child {
+    align-self: stretch;
+    position: relative;
+    border-top: 3px solid #fff;
+    box-sizing: border-box;
+    height: 3px;
+}
+.frame-container {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+.frame-div {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+}
+.div {
+    width: 143px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.wrapper {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.div1 {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.contact {
+    position: relative;
+}
+.frame-parent4 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 16px;
+}
+.container {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: right;
+}
+.frame-group {
+    position: absolute;
+    width: 32.85%;
+    right: 20.59%;
+    bottom: 12.01px;
+    left: 46.56%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 22px;
+    text-align: center;
+    font-size: 24px;
+}
+.melodies1 {
+    position: relative;
+    font-weight: 800;
+    background: linear-gradient(90.07deg, #9510ee, rgba(226, 76, 6, 0.92));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.vector-icon {
+    width: 24px;
+    position: relative;
+    height: 24px;
+}
+.streamlinecomputer-logo-faceb {
+    align-self: stretch;
+    flex: 1;
+    background-color: #181818;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 2px;
+}
+.lucideinstagram {
+    align-self: stretch;
+    flex: 0.9291;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 4px;
+}
+.vector-icon1 {
+    width: 24px;
+    position: relative;
+    height: 20.5px;
+}
+.streamlinecomputer-logo-twitt {
+    align-self: stretch;
+    flex: 1;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 5px 2px;
+}
+.vector-icon2 {
+    width: 24px;
+    position: relative;
+    height: 31.8px;
+}
+.fluentcall-28-regular {
+    align-self: stretch;
+    flex: 0.7872;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 3px 8px;
+}
+.streamlinecomputer-logo-faceb-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.frame-parent5 {
+    position: absolute;
+    bottom: 112.2px;
+    left: 1180px;
+    width: 241.4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 25px;
+    font-size: 40px;
+}
+.footer {
+    position: absolute;
+    width: 100%;
+    right: -2.5px;
+    bottom: 0px;
+    left: 2.5px;
+    filter: drop-shadow(0px -17px 22.7px rgba(0, 0, 0, 0.25));
+    height: 456px;
+    font-size: 26px;
+}
+.material-symbolsarrow-back-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 50px;
+    height: 50px;
+    overflow: hidden;
+}
+.share {
+    position: relative;
+    font-weight: 600;
+}
+.titles {
+    width: 267px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+}
+.iconamoonprofile-circle-fill {
+    width: 40px;
+    position: relative;
+    height: 40px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.titles-parent {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 37px;
+}
+.top-inner {
+    position: absolute;
+    top: 14px;
+    right: 0px;
+    width: 344px;
+    height: 40px;
+}
+.eminem {
+    position: absolute;
+    top: 230px;
+    left: 30px;
+    font-size: 96px;
+    font-weight: 900;
+}
+.top {
+    position: absolute;
+    top: 56px;
+    left: 326px;
+    width: 1035px;
+    height: 380px;
+    font-size: 24px;
+}
+.popular {
+    position: absolute;
+    top: 0px;
+    left: 19px;
+    font-size: 40px;
+    font-weight: 800;
+}
+.child {
+    position: absolute;
+    width: calc(100% - 64px);
+    top: 0px;
+    right: 0px;
+    left: 64px;
+    border-radius: 5px;
+    background-color: #1e1e1e;
+    height: 60px;
+}
+.div4 {
+    position: absolute;
+    top: 18px;
+    left: calc(50% + 124px);
+    display: inline-block;
+    width: 81px;
+    height: 25px;
+}
+.the-neighbourhood-the-neighb-icon {
+    width: 60px;
+    position: relative;
+    border-radius: 5px;
+    height: 60px;
+    object-fit: cover;
+}
+.eminem1 {
+    position: relative;
+    font-size: 12px;
+    font-weight: 300;
+}
+.without-me-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+.the-neighbourhood-the-neighb-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 19px;
+    font-size: 20px;
+}
+.parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 27px;
+}
+.may-15-2002 {
+    position: relative;
+    font-size: 16px;
+}
+.frame-parent6 {
+    position: absolute;
+    width: calc(100% - 649px);
+    top: 0px;
+    right: 649px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 83px;
+    font-size: 24px;
+}
+.phheart-light-icon {
+    width: 25px;
+    position: relative;
+    height: 25px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.icon-parkmore {
+    width: 24px;
+    position: relative;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.phheart-light-parent {
+    position: absolute;
+    top: 17px;
+    right: 9px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 14px;
+}
+.div3 {
+    position: absolute;
+    width: calc(100% - 2px);
+    top: 97px;
+    right: 0px;
+    left: 2px;
+    height: 60px;
+}
+.item {
+    position: absolute;
+    width: calc(100% - 66px);
+    top: 0px;
+    right: 0px;
+    left: 66px;
+    border-radius: 5px;
+    background-color: #1e1e1e;
+    height: 60px;
+}
+.div8 {
+    position: absolute;
+    top: 18px;
+    left: calc(50% + 122px);
+    display: inline-block;
+    width: 81px;
+    height: 25px;
+}
+.the-neighbourhood-the-neighb-group {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 23px;
+    font-size: 20px;
+}
+.group {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 28px;
+}
+.frame-parent7 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 78px;
+    font-size: 24px;
+}
+.div7 {
+    position: absolute;
+    width: 100%;
+    top: 172px;
+    right: 0px;
+    left: 0px;
+    height: 60px;
+}
+.inner {
+    position: absolute;
+    width: calc(100% - 65px);
+    top: 0px;
+    right: 0px;
+    left: 65px;
+    border-radius: 5px;
+    background-color: #1e1e1e;
+    height: 60px;
+}
+.div12 {
+    position: absolute;
+    top: 18px;
+    left: calc(50% + 123.5px);
+    display: inline-block;
+    width: 79px;
+    height: 25px;
+}
+.the-real-slim-sha-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.frame-wrapper {
+    width: 175px;
+    position: relative;
+    height: 50px;
+}
+.frame-parent8 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 11px;
+    font-size: 24px;
+}
+.div11 {
+    position: absolute;
+    width: calc(100% - 1px);
+    top: 247px;
+    right: 0px;
+    left: 1px;
+    height: 60px;
+}
+.div16 {
+    position: absolute;
+    top: 18px;
+    left: calc(50% + 124.5px);
+    display: inline-block;
+    width: 79px;
+    height: 25px;
+}
+.group-div {
+    width: 124px;
+    position: relative;
+    height: 50px;
+}
+.frame-parent9 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 62px;
+    font-size: 24px;
+}
+.div15 {
+    position: absolute;
+    width: calc(100% - 1px);
+    top: 322px;
+    right: 0px;
+    left: 1px;
+    height: 60px;
+}
+.div20 {
+    position: absolute;
+    top: 18px;
+    left: calc(50% + 124.5px);
+    display: inline-block;
+    width: 84px;
+    height: 25px;
+}
+.frame-wrapper1 {
+    width: 68px;
+    position: relative;
+    height: 50px;
+}
+.frame-parent10 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 118px;
+    font-size: 24px;
+}
+.div19 {
+    position: absolute;
+    width: calc(100% - 1px);
+    top: 397px;
+    right: 0px;
+    left: 1px;
+    height: 60px;
+}
+.detail {
+    position: absolute;
+    top: 48px;
+    left: calc(50% - 221px);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 247px;
+    font-size: 20px;
+}
+.button1 {
+    position: relative;
+    font-weight: 300;
+    text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+.button {
+    position: absolute;
+    top: 473px;
+    left: 478px;
+    border-radius: 4px;
+    background-color: #ee10b0;
+    height: 36px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 6px 16px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 14px;
+}
+.popular-songs {
+    position: absolute;
+    top: 490px;
+    left: 328px;
+    width: 1058px;
+    height: 509px;
+    font-size: 16px;
+}
+.melodies2 {
+    flex: 1;
+    position: relative;
+    background: linear-gradient(90.07deg, #ee10b0, rgba(14, 158, 239, 0.92));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.melodies-frame {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 32px;
+}
+.menu {
+    position: relative;
+    font-weight: 300;
+    opacity: 0.6;
+}
+.menu-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 12px;
+    color: #ee10b0;
+}
+.group-icon1 {
+    width: 16px;
+    position: relative;
+    height: 16px;
+}
+.home {
+    flex: 1;
+    position: relative;
+    font-weight: 500;
+    display: inline-block;
+    height: 23px;
+}
+.group-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+    cursor: pointer;
+}
+.material-symbols-lightexplore-icon {
+    width: 16px;
+    position: relative;
+    height: 16px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.artists2 {
+    flex: 1;
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    height: 28px;
+}
+.healthiconsui-user-profile-ou-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 4px;
+}
+.frame-wrapper3 {
+    align-self: stretch;
+    border-radius: 9px;
+    background-color: #ee10b0;
+    height: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 2px 8px;
+    box-sizing: border-box;
+}
+.frame-wrapper2 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 20px;
+}
+.fluent-mdl2recent-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.subwayadd-playlist-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+    color: #0e9eef;
+}
+.setting {
+    flex: 1;
+    position: relative;
+    font-weight: 500;
+    display: inline-block;
+    height: 24px;
+}
+.line-mdlog-out-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+    color: #ee10b0;
+}
+.frame-parent11 {
+    position: absolute;
+    width: 18.75%;
+    top: 0px;
+    right: 81.25%;
+    left: 0%;
+    box-shadow: 8px 0px 24.2px rgba(238, 16, 176, 0.15);
+    background-color: #181818;
+    border-right: 2px solid #ee10b0;
+    box-sizing: border-box;
+    height: 2867px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 48px 32px 0px 64px;
+    gap: 24px;
+    font-size: 16px;
+}
+.artists-albums-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-content: center;
+    padding: 10px;
+}
+.rectangle-icon {
+    flex: 1;
+    position: relative;
+    border-radius: 8px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 150px;
+    object-fit: cover;
+}
+.the-eminem-show {
+    align-self: stretch;
+    position: relative;
+    font-weight: 500;
+}
+.div23 {
+    align-self: stretch;
+    position: relative;
+    font-size: 12px;
+    font-weight: 300;
+    opacity: 0.8;
+}
+.the-eminem-show-parent {
+    width: 150px;
+    height: 48px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+}
+.frame-parent15 {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.frame-wrapper4 {
+    flex: 1;
+    border-radius: 8px;
+    background-color: #1f1f1f;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
+    padding: 8px;
+}
+.frame-parent14 {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 24px;
+}
+.icbaseline-plus-wrapper {
+    flex: 1;
+    border-radius: 31px;
+    background-color: #1e1e1e;
+    height: 62px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-content: center;
+    padding: 18px 19px;
+    box-sizing: border-box;
+}
+.view-all {
+    position: relative;
+    font-weight: 500;
+}
+.frame-parent20 {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    gap: 4px;
+    max-width: 62px;
+}
+.frame-parent13 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-content: center;
+    padding: 0px 4px;
+    gap: 24px;
+    font-size: 16px;
+}
+.frame-parent12 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+}
+.top-albums {
+    position: absolute;
+    width: 73.75%;
+    top: 1063px;
+    right: 4.44%;
+    left: 21.81%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.frame-child5 {
+    flex: 1;
+    position: relative;
+    border-radius: 10px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 150px;
+    object-fit: cover;
+}
+.frame-wrapper9 {
+    flex: 1;
+    border-radius: 10px;
+    background-color: #1f1f1f;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
+    padding: 4px 15px;
+}
+.weekly-top-songs {
+    position: absolute;
+    width: 73.75%;
+    top: 1423px;
+    right: 4.44%;
+    left: 21.81%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.full-collection-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0px 0px 0px 4px;
+}
+.frame-parent32 {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 12px;
+}
+.frame-wrapper15 {
+    flex: 1;
+    border-radius: 8px;
+    background-color: #1f1f1f;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
+    padding: 0px 0px 8px;
+}
+.frame-wrapper14 {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+.top-albums1 {
+    position: absolute;
+    width: 73.75%;
+    top: 1775px;
+    right: 4.44%;
+    left: 21.81%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.eminem-fans-also-listen-to-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px;
+}
+.icon {
+    align-self: stretch;
+    position: relative;
+    border-radius: 200px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 198px;
+    flex-shrink: 0;
+    object-fit: cover;
+}
+.cent {
+    align-self: stretch;
+    position: relative;
+}
+.parent5 {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 23px;
+}
+.frame-parent39 {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 58px;
+}
+.icbaseline-plus-wrapper1 {
+    align-self: stretch;
+    border-radius: 31px;
+    background-color: #1e1e1e;
+    height: 62px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 18px 19px;
+    box-sizing: border-box;
+}
+.frame-parent40 {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 4px;
+    max-width: 62px;
+    text-align: left;
+    font-size: 16px;
+}
+.frame-parent38 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 24px;
+    text-align: center;
+    font-size: 20px;
+}
+.popular-artists {
+    position: absolute;
+    width: calc(100% - 379px);
+    top: 2108px;
+    right: 65px;
+    left: 314px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 18px;
+}
+.artists {
+    width: 100%;
+    position: relative;
+    background-color: #181818;
+    height: 2867px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 32px;
+    color: #fff;
+    font-family: Vazirmatn;
+}
+
